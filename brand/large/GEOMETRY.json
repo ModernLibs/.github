@@ -1,0 +1,24 @@
+{
+  "notation": "Goldberg\u2013Coxeter G(3,2)",
+  "frequency_T": 19,
+  "faces": 192,
+  "pentagons": 12,
+  "hexagons": 180,
+  "dual_geodesic_vertices": 192,
+  "dual_geodesic_triangles": 380,
+  "edges": 570,
+  "accent_face_index": 87,
+  "color_palette": {
+    "green": "#0B3D33",
+    "green_base": "#0A4437",
+    "dark": "#062821",
+    "copper": "#B8734F",
+    "ivory": "#F7F5EF",
+    "line": "#E9EFE8",
+    "surface": "#FFFCF7",
+    "subtle": "#6F8178"
+  },
+  "typeface": "Inter Display ExtraBold (800), all outlines embedded in brand logo SVGs",
+  "geometry": "Outward-oriented icosahedron, G(3,2) lattice points, radial projection and spherical Voronoi dual",
+  "license_font": "SIL Open Font License 1.1"
+}

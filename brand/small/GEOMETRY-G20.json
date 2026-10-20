@@ -1,0 +1,36 @@
+{
+  "small_variant": {
+    "name": "Goldberg\u2013Coxeter G(2,0)",
+    "T": 4,
+    "faces": 42,
+    "hexagons": 30,
+    "pentagons": 12,
+    "edges": 120,
+    "vertices": 80,
+    "color_accent": "one front-facing genuine hexagonal cell",
+    "copper_face_id": 12,
+    "copper_projected_center": [
+      0.261,
+      -0.2434
+    ],
+    "projection": "orthographic, front hemisphere, spherical Voronoi (icosahedral frequency 2)"
+  },
+  "primary_variant": {
+    "name": "Goldberg\u2013Coxeter G(3,2)",
+    "T": 19,
+    "faces": 192,
+    "hexagons": 180,
+    "pentagons": 12
+  },
+  "threshold_px": 64,
+  "source_palette": {
+    "green": "#0B3D33",
+    "dark": "#062821",
+    "copper": "#B8734F",
+    "ivory": "#F7F5EF",
+    "line": "#E9EFE8",
+    "subtle": "#6F8178",
+    "light_panel": "#FFFEFC"
+  },
+  "font": "Inter Display ExtraBold 800, vector glyph paths in SVG wordmarks"
+}
