@@ -1,0 +1,16 @@
+name: Question
+description: Ask how to use a library
+labels: [question]
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+      description: What are you trying to do, and what have you tried? Put code in ```csharp fences.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Package version
+      placeholder: "1.2.3"

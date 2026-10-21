@@ -29,3 +29,11 @@ copper cell highlighted. It comes in two optical sizes that use the same constru
 
 The wordmark is set in Inter Display ExtraBold (800), converted to outlines, so the SVG files need no
 fonts. Inter is licensed under the SIL Open Font License 1.1; the font files are not included here.
+
+The SVG files are optimized with svgo 3.3.2 (`multipass`, `floatPrecision: 4`, `preset-default` keeping
+`viewBox`, `<title>`, `<desc>` and IDs).
+
+## Usage
+
+The Modern Libs name and logos are not covered by any repository license. You may use them to refer to
+Modern Libs; do not use them to imply endorsement or for other projects.

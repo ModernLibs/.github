@@ -1,0 +1,38 @@
+name: Bug report
+description: Something does not work as documented
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: Describe the problem and what you expected instead.
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Minimal reproduction
+      description: Code or steps that show the problem. Include sample input if relevant. Put code in ```csharp fences.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Package version
+      placeholder: "1.2.3"
+    validations:
+      required: true
+  - type: input
+    id: runtime
+    attributes:
+      label: .NET version and OS
+      placeholder: ".NET 10.0.0, Ubuntu 24.04"
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Exception or output
+      description: Full exception text with stack trace.
+      render: text

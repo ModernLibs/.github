@@ -18,4 +18,11 @@
 
 ## Contributing
 
-Issues and pull requests are welcome in each library's repository. Read its `CONTRIBUTING.md` first.
+Issues and pull requests are welcome in each library's repository. Read the
+[contributing guide](https://github.com/ModernLibs/.github/blob/main/CONTRIBUTING.md) and
+[code of conduct](https://github.com/ModernLibs/.github/blob/main/CODE_OF_CONDUCT.md) first. Report
+security problems privately as described in the
+[security policy](https://github.com/ModernLibs/.github/blob/main/SECURITY.md).
+
+<sub>The Modern Libs name and logos are not covered by the libraries' licenses. See
+[brand usage](https://github.com/ModernLibs/.github/blob/main/brand/README.md#usage).</sub>
